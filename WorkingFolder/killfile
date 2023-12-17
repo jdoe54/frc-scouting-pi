@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo kill $(sudo ps aux | grep -i 'sudo python scouterDataCollectionScript.py' | awk '{print $2}' | head -n 1)
+echo $jobs

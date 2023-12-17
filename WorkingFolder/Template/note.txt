@@ -1,0 +1,1 @@
+Scout,Team #,Alliance,Starting Level,Hatches Level 1,Hatches Level 2,Hatches Level 3,Cargo Level 1,Cargo Level 2,Cargo Level 3,Endgame Level 2,Endgame Level 3,Bad Driver,Robot Disabled,Robot Carry Level 2,Robot Carry Level 3
